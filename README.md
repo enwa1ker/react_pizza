@@ -1,6 +1,6 @@
-# react_pizza
+# react pizza
 
-# 🛠 Технологии:
+# 🛠 Stack:
 
 - **ReactJS 18**
 - **TypeScript**
